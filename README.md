@@ -17,7 +17,7 @@ Enter the Manually folder and just follow the prompts.
 
 1. The following is the configuration that Ansible must have, namely ansible.cfg, hosts, key.pem in the key folder.
    
-![Screen Shot 2023-07-17 at 13 33 27](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/c7ecfbbc-568c-41d7-afdc-fdb57a2cb5ca)
+![Screen Shot 2023-07-17 at 13 35 02](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/419afb3b-7100-4a8a-92c8-31eb424ce22b)
 
 3. s
 
