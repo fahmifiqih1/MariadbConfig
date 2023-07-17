@@ -31,7 +31,20 @@ Enter the Manually folder and just follow the prompts.
     
 ![Screen Shot 2023-07-17 at 13 36 08](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/fa88d24c-68c6-44fd-875e-d28aceedd542)
 
-5. s
+5. You can change password mysql root in Ansible/mariadb/vars/main.yml:
+
+```
+ansible-vault edit main.yaml
+```
 
 ![Screen Shot 2023-07-17 at 12 38 00](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/2ceec386-06f0-4085-b217-ff43b1e13dd5)
 
+6. Running Ansible Playbook
+
+```
+ansible-playbook -vv mariadb.yaml --ask-vault-pass
+```
+Input password prompt
+```
+password vault : admin1234
+```
