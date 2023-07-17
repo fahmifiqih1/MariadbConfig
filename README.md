@@ -16,14 +16,18 @@ Enter the Manually folder and just follow the prompts.
 ⚙ Ansible Setup MariaDB
 
 1. The following is the configuration that Ansible must have, namely ansible.cfg, hosts, key.pem in the key folder.
-   
-![Screen Shot 2023-07-17 at 13 36 08](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/fa88d24c-68c6-44fd-875e-d28aceedd542)
+
+![Screen Shot 2023-07-17 at 13 35 02](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/419afb3b-7100-4a8a-92c8-31eb424ce22b)
 
 2. s
+    
+![Screen Shot 2023-07-17 at 13 36 08](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/fa88d24c-68c6-44fd-875e-d28aceedd542)
+
+3. s
 
 ![Screen Shot 2023-07-17 at 13 08 25](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/014edf16-8c2f-4296-b567-f8b01fde5354)
 
-3. s
+4. s
 
 ![Screen Shot 2023-07-17 at 13 11 44](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/de37f4bb-1440-4cf2-8b48-e597eaef5a57)
 
