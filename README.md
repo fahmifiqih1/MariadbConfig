@@ -15,3 +15,13 @@ Enter the Manually folder and just follow the prompts.
 
 ⚙ Ansible Setup MariaDB
 
+1. s
+![Screen Shot 2023-07-17 at 13 11 58](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/a163ea8e-8b8b-4c85-af64-23b47b5aa18c)
+
+2. s
+
+![Screen Shot 2023-07-17 at 13 11 44](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/de37f4bb-1440-4cf2-8b48-e597eaef5a57)
+
+3. s
+
+![Screen Shot 2023-07-17 at 13 08 25](https://github.com/fahmifiqih1/MariadbConfig/assets/53596721/014edf16-8c2f-4296-b567-f8b01fde5354)
