@@ -7,4 +7,11 @@ there are two configuration settings, namely using Ansible and Manually, if you 
 
 # How to use it ?
 
+⚙ Manually Setup MariaDB
+
+```
+Enter the Manually folder and just follow the prompts.
+```
+
+⚙ Ansible Setup MariaDB
 
