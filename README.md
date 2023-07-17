@@ -1,4 +1,4 @@
-# Configure MariaDB with Ansible & Manually
+# Configure MariaDB Ansible & Manually
 
 # Early Opening
 This is the configuration how to setup Mariadb Server and client on ubuntu server on AWS, GCP or in any cloud provider, I made this just for my documentation and if it is useful for others to use, that's great.
